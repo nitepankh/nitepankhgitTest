@@ -1,1 +1,1 @@
-This is a test repository for learning how to use the githubs.
+This is a test repository for learning how to be using teh githubs.
